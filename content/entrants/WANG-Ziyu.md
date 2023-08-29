@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "WANG Ziyu"
+email: "wangziy12345@126.com"
 subtitle: ""
 summary: ""
 authors: []
